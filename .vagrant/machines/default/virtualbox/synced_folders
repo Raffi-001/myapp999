@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/home/raffi/Desktop/myapp999","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/raffi/Desktop/myapp999","disabled":false,"__vagrantfile":true}}}
